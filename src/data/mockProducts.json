@@ -1,0 +1,21 @@
+[
+    {
+      "_id": "p1",
+      "name": "Comfort Sneakers",
+      "price": 2499,
+      "description": "Lightweight running sneakers with breathable mesh."
+    },
+    {
+      "_id": "p2",
+      "name": "Classic Leather Bag",
+      "price": 1599,
+      "description": "Elegant and durable handbag for everyday use."
+    },
+    {
+      "_id": "p3",
+      "name": "Digital Smartwatch",
+      "price": 3299,
+      "description": "Stylish smartwatch with heart rate and step tracking."
+    }
+  ]
+  
